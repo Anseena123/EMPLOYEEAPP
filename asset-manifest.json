@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EMPLOYEEAPP/static/css/main.1eb94eb3.css",
+    "main.js": "/EMPLOYEEAPP/static/js/main.2b234610.js",
+    "static/js/592.c48e108c.chunk.js": "/EMPLOYEEAPP/static/js/592.c48e108c.chunk.js",
+    "static/media/download.jpg": "/EMPLOYEEAPP/static/media/download.369a2688d88a1e4d4f74.jpg",
+    "static/media/logo.svg": "/EMPLOYEEAPP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EMPLOYEEAPP/index.html",
+    "main.1eb94eb3.css.map": "/EMPLOYEEAPP/static/css/main.1eb94eb3.css.map",
+    "main.2b234610.js.map": "/EMPLOYEEAPP/static/js/main.2b234610.js.map",
+    "592.c48e108c.chunk.js.map": "/EMPLOYEEAPP/static/js/592.c48e108c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb94eb3.css",
+    "static/js/main.2b234610.js"
+  ]
+}
